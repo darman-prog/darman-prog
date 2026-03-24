@@ -1,6 +1,6 @@
 Hola, soy Diego Meza, un ingeniero en sistemas. Mis ambiciones son crecer en el mundo de la programación y desenvolverme en diferentes tecnologías. 
 # 💫 Sobre mi:
-Estoy enfocado en mis estudios como ingeniero de sistemas<br>Me divierto haciendo código, el simple hecho de construir algo me emociona<br> y Me gustaria Esparcirme en el mundo de la inteligencia artificial.
+Estoy enfocado en mis estudios como ingeniero de sistemas<br>Me divierto haciendo código, el simple hecho de construir algo me emociona<br> y Me gustaria Esparcirme en el mundo del desarrollo de software.
 
 
 ## 🌐 Redes sociales:
