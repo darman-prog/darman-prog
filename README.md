@@ -11,10 +11,10 @@ Soy un desarrollador en formación apasionado por construir software, pero con u
 
 Me interesa no solo programar, sino:
 
-* 🏗️ Diseñar arquitecturas de software sólidas
-* 🤖 Integrar inteligencia artificial (LLMs) en aplicaciones reales
-* 🧩 Entender cómo se construyen sistemas grandes y escalables
-* 🎯 Tomar decisiones técnicas con criterio
+* 🏗️ Diseñar arquitecturas de software sólidas 
+* 🤖 Integrar inteligencia artificial (LLMs) en aplicaciones reales 
+* 🧩 Entender cómo se construyen sistemas grandes y escalables 
+* 🎯 Tomar decisiones técnicas con criterio 
 
 Disfruto el proceso de convertir ideas en soluciones funcionales, desde la lógica hasta la estructura completa del sistema.
 
@@ -63,7 +63,7 @@ Actualmente estoy enfocado en aprender y aplicar:
 
 * Arquitectura de software
 * Buenas prácticas (Clean Code, diseño modular)
-* Desarrollo backend y APIs
+* Desarrollo backend , frontend y APIs  
 * Integración de IA (LLMs, Prompt Engineering)
 * Construcción de proyectos reales
 
