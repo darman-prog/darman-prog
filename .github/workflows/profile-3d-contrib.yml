@@ -2,7 +2,7 @@ name: Gráfica 3D de contribuciones
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"  # 6am UTC (ajusta a tu zona)
   workflow_dispatch:
 
 jobs:
@@ -18,11 +18,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_LANGUAGES: 5
+          SETTING_JSON: profile-3d-contrib/settings.json
 
       - name: Commit y push del resultado
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A profile-3d-contrib
-          git commit -m "chore: actualiza gráfica 3D de contribuciones" || echo "Sin cambios"
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add profile-3d-contrib/
+          git diff --staged --quiet || git commit -m "chore: actualiza gráfica 3D [skip ci]"
           git push

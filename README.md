@@ -117,12 +117,12 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 <tr>
 <td width="50%" valign="top">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=darman-prog&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-git-mastan-stark.vercel.app/api?username=darman-prog&show_icons=true&theme=tokyonight&hide_border=true)
 
 </td>
 <td width="50%" valign="top">
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darman-prog&layout=compact&theme=tokyonight&hide_border=true)
+![Top langs](https://github-readme-stats-git-mastan-stark.vercel.app/api/top-langs/?username=darman-prog&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
