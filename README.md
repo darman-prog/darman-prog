@@ -92,7 +92,7 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 ## ⚙️ Stack técnico
 
 **Lenguajes**
-<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript<kbd> <kbd>R</kbd>
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd>    <kbd>TypeScript<kbd> 
 
 **Frameworks / Web**
 <kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd> <kbd>Next.js</kbd> <kbd>FastApi</kbd>
@@ -113,9 +113,8 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 ## 📊 Actividad en GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=darman-prog&show_icons=true&theme=tokyonight&hide_border=true)
 ![Racha](https://streak-stats.demolab.com?user=darman-prog&theme=tokyonight&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darman-prog&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### 🌐 Gráfica 3D de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow profile-3d-contrib.yml -->
@@ -124,14 +123,6 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 ### 🐍 Snake de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow snake.yml -->
 ![Snake animation](https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## ⏱️ En qué estoy invirtiendo mi tiempo esta semana
-
-<!--START_SECTION:waka-->
-<!-- Esta sección se llena automáticamente con el workflow waka-readme.yml -->
-<!--END_SECTION:waka-->
 
 ---
 
