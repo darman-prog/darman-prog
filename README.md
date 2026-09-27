@@ -92,7 +92,7 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 ## ⚙️ Stack técnico
 
 **Lenguajes**
-<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd>    <kbd>TypeScript<kbd> 
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd>    <kbd>TypeScript</kbd> <kbd>R</kbd> 
 
 **Frameworks / Web**
 <kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd> <kbd>Next.js</kbd> <kbd>FastApi</kbd>
@@ -113,13 +113,30 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 ## 📊 Actividad en GitHub
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=darman-prog&show_icons=true&theme=tokyonight&hide_border=true)
+
+</td>
+<td width="50%" valign="top">
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darman-prog&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ![Racha](https://streak-stats.demolab.com?user=darman-prog&theme=tokyonight&hide_border=true)
 
+</div>
 
 ### 🌐 Gráfica 3D de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow profile-3d-contrib.yml -->
-![Gráfica 3D](./profile-3d-contrib/profile-night-green.svg)
-
+![Gráfica 3D](https://raw.githubusercontent.com/darman-prog/darman-prog/output/profile-3d-contrib/profile-night-green.svg)
 ### 🐍 Snake de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow snake.yml -->
 ![Snake animation](https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg)
