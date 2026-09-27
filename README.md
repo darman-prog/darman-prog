@@ -140,14 +140,24 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 <table>
 <tr>
+<td width="100%">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darman-prog&theme=tokyo_night)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-![Stats](https://github-readme-stats-git-mastan-stark.vercel.app/api?username=darman-prog&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darman-prog&theme=tokyo_night)
 
 </td>
 <td width="50%" valign="top">
 
-![Top langs](https://github-readme-stats-git-mastan-stark.vercel.app/api/top-langs/?username=darman-prog&layout=compact&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darman-prog&theme=tokyo_night)
 
 </td>
 </tr>
@@ -159,15 +169,10 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darman-prog&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-
 ### 🌐 Gráfica 3D de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow profile-3d-contrib.yml -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
 </p>
 
 ### 🐍 Snake de contribuciones
