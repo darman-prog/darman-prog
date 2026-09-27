@@ -1,15 +1,8 @@
-<!--
-  ⚠️ ANTES DE SUBIR: busca todos los placeholders en MAYÚSCULAS y reemplázalos.
-  Los principales son:
-  - darman-prog
-  - TU_USUARIO_LEETCODE
-  - TU_WAKATIME_USER_ID
-  - TU_USUARIO_MEDIUM / TU_USUARIO_DEVTO
--->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Software+Developer+en+formaci%C3%B3n;AI+Integrator+%7C+LLMs+en+produccik%C3%B3n;Backend+%2B+Frontend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Software+Developer+en+formaci%C3%B3n;AI+Integrator+%7C+LLMs+en+producci%C3%B3n;Backend+%2B+Frontend+Engineer)](https://git.io/typing-svg)
+
+🎓 Estudiante de **Ingeniería de Sistemas/Software** · Universidad Autónoma de Bucaramanga (UNAB)
 
 <a href="https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:damezago24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -29,7 +22,9 @@
 
 <kbd>📍 Bucaramanga, Colombia</kbd>
 <br/><br/>
-<kbd>🎓 UNAB</kbd>
+<kbd>🎓 Ing. Sistemas/Software</kbd>
+<br/><br/>
+<kbd>🏫 UNAB</kbd>
 <br/><br/>
 <kbd>🏗️ Software Architecture</kbd>
 
@@ -37,6 +32,8 @@
 <td width="68%" valign="top">
 
 ### 🧠 Sobre mí
+
+Estudio Ingeniería de Sistemas/Software en la UNAB, una carrera que abarca tanto el desarrollo de software como los fundamentos de sistemas: bases de datos, arquitectura, ingeniería de software, entre otros.
 
 Soy un desarrollador en formación apasionado por construir software, pero con una visión que va más allá del código. Me interesa no solo programar, sino:
 
@@ -63,38 +60,32 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 <tr>
 <td width="50%" valign="top">
 
-**🏆 FastCode**
-Plataforma web de programación competitiva 1v1 en tiempo real — semillero SisWeb (UNAB).
-<kbd>Angular</kbd> <kbd>Django REST</kbd> <kbd>WebSockets</kbd>
+**🗺️ [Atlas Mágico](https://github.com/darman-prog/atlas-magico)**
+Juego educativo para aprender sobre la cultura de distintos países, con preguntas de selección múltiple y mecánicas de gamificación.
 
 </td>
 <td width="50%" valign="top">
 
-**💪 Metabolic**
-App de seguimiento fitness con estética cyberpunk HUD.
-<kbd>Angular</kbd> <kbd>Django REST Framework</kbd>
+**🥘 [EcoReceta](https://github.com/darman-prog/EcoReceta)**
+App para armar recetas de cocina usando productos disponibles en tiendas colombianas.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎬 RateClash**
-Plataforma de calificación de películas, identidad visual de marquesina de cine vintage.
-<kbd>Angular</kbd> <kbd>Django REST Framework</kbd>
+**⚙️ [HarnessConfig](https://github.com/darman-prog/HarnessConfig)**
+Configuración personal del harness con el que trabajo junto a agentes de IA en mi flujo de desarrollo.
 
 </td>
 <td width="50%" valign="top">
 
-**📋 Scrumter.io**
-Herramienta de gestión de proyectos con metodología Scrum.
-<kbd>Gestión de proyectos</kbd> <kbd>Scrum</kbd>
+**📋 [Scrumter — Landing Page](https://github.com/darman-prog/scrumter_landing_page)**
+Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodología Scrum.
 
 </td>
 </tr>
 </table>
-
-> 🔗 Convierte cada nombre en link a su repo: `**[FastCode](https://github.com/darman-prog/fastcode)**`
 
 ---
 
@@ -135,7 +126,6 @@ Herramienta de gestión de proyectos con metodología Scrum.
 ![Snake animation](https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
 
 ## ⏱️ En qué estoy invirtiendo mi tiempo esta semana
 
