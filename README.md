@@ -8,6 +8,10 @@
 <a href="mailto:damezago24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/dameza24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=darman-prog&label=Profile%20views&color=61dafb&style=flat" alt="visitors" />
+</p>
+
 </div>
 
 ---
@@ -47,6 +51,13 @@ Disfruto el proceso de convertir ideas en soluciones funcionales, desde la lógi
 ### 🎯 Objetivo profesional
 
 Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistemas robustos, liderar productos tecnológicos, integrar IA generativa y orquestar equipos, tecnologías y procesos.
+
+### 🔭 Actualmente estoy...
+
+* 🧪 Integrando **LLMs** en aplicaciones reales con técnicas de *Prompt Engineering*
+* 🏗️ Aplicando **Arquitectura Hexagonal** y *Clean Code* en mis proyectos
+* 📚 Estudiando patrones de diseño para sistemas distribuidos
+* 💬 Abierto a charlar sobre: Django, IA aplicada, arquitectura de software
 
 </td>
 </tr>
@@ -92,22 +103,36 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 ## ⚙️ Stack técnico
 
 **Lenguajes**
-<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd>    <kbd>TypeScript</kbd> <kbd>R</kbd> 
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>R</kbd>
 
 **Frameworks / Web**
-<kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd> <kbd>Next.js</kbd> <kbd>FastApi</kbd>
+<kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>FastAPI</kbd> <kbd>Next.js</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd>
 
 **Móvil y otros entornos**
 <kbd>Jetpack Compose</kbd> <kbd>Unity</kbd> <kbd>Oracle APEX</kbd>
 
 **Bases de datos**
-<kbd>PostgreSQL</kbd> <kbd>Oracle</kbd> <kbd>MySql</kbd> <kbd>SqlLite</kbd> 
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd> <kbd>Oracle</kbd>
 
 **Arquitectura y prácticas**
-<kbd>Arquitectura Hexagonal</kbd> <kbd>Clean Code</kbd> <kbd>Diseño modular</kbd> <kbd>Prompt Engineering</kbd> <kbd>Arquitectura por dominios</kbd>
+<kbd>Arquitectura Hexagonal</kbd> <kbd>Clean Code</kbd> <kbd>Diseño modular</kbd> <kbd>Prompt Engineering</kbd> <kbd>Domain-Driven Design</kbd>
 
-**Diseño**
-<kbd>Figma</kbd> <kbd>Canva</kbd> <kbd>open-design</kbd> <kbd>stitch</kbd> 
+**Herramientas y DevOps**
+<kbd>Git</kbd> <kbd>Docker</kbd> <kbd>GitHub Actions</kbd> <kbd>Figma</kbd> <kbd>Canva</kbd>
+
+---
+
+## 📡 Mi Tech Radar Personal
+
+| Tecnología | Estado | Justificación |
+|:-----------|:-------|:--------------|
+| Django + DRF | ✅ Adopt | Base sólida de mis proyectos backend |
+| Arquitectura Hexagonal | ✅ Adopt | Independencia de frameworks y testabilidad |
+| FastAPI | 🧪 Trial | Microservicios de alto rendimiento con IA |
+| Docker | 🧪 Trial | Containerización de mis aplicaciones |
+| Kubernetes | 📋 Assess | Próximo paso para escalar sistemas |
+
+> 💡 *Adopt = lo uso a diario · Trial = lo estoy probando · Assess = lo estoy investigando*
 
 ---
 
@@ -134,18 +159,39 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 </div>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darman-prog&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</p>
+
 ### 🌐 Gráfica 3D de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow profile-3d-contrib.yml -->
-![Gráfica 3D](https://raw.githubusercontent.com/darman-prog/darman-prog/output/profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
+</p>
+
 ### 🐍 Snake de contribuciones
 <!-- Se genera y se auto-actualiza con el workflow snake.yml -->
-![Snake animation](https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-📧 Email: **[damezago24@gmail.com](mailto:damezago24@gmail.com)**
+📧 Email: [damezago24@gmail.com](mailto:damezago24@gmail.com)  
 🌐 [Instagram](https://instagram.com/dameza24) · [LinkedIn](https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/)
 
 ---
+
+<div align="center">
+
+### 🚀 ¿Te interesa colaborar?
+
+Estoy abierto a oportunidades de **prácticas, proyectos open-source y colaboraciones técnicas**.  
+Si trabajas en arquitectura de software, IA aplicada o desarrollo de productos, ¡hablemos!
+
+[📩 Escríbeme un email](mailto:damezago24@gmail.com) · [💼 Conecta en LinkedIn](https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/)
+
+</div>
