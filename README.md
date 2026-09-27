@@ -92,22 +92,22 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 ## ⚙️ Stack técnico
 
 **Lenguajes**
-<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd> <kbd>R</kbd>
+<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript<kbd> <kbd>R</kbd>
 
 **Frameworks / Web**
-<kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd>
+<kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd> <kbd>Next.js</kbd> <kbd>FastApi</kbd>
 
 **Móvil y otros entornos**
 <kbd>Jetpack Compose</kbd> <kbd>Unity</kbd> <kbd>Oracle APEX</kbd>
 
 **Bases de datos**
-<kbd>PostgreSQL</kbd> <kbd>Oracle</kbd>
+<kbd>PostgreSQL</kbd> <kbd>Oracle</kbd> <kbd>MySql</kbd> <kbd>SqlLite</kbd> 
 
 **Arquitectura y prácticas**
-<kbd>Arquitectura Hexagonal</kbd> <kbd>Clean Code</kbd> <kbd>Diseño modular</kbd> <kbd>Prompt Engineering</kbd>
+<kbd>Arquitectura Hexagonal</kbd> <kbd>Clean Code</kbd> <kbd>Diseño modular</kbd> <kbd>Prompt Engineering</kbd> <kbd>Arquitectura por dominios</kbd>
 
 **Diseño**
-<kbd>Figma</kbd> <kbd>Canva</kbd>
+<kbd>Figma</kbd> <kbd>Canva</kbd> <kbd>open-design</kbd> <kbd>stitch</kbd> 
 
 ---
 
