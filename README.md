@@ -55,7 +55,7 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 ### 🔭 Actualmente estoy...
 
 * 🧪 Integrando **LLMs** en aplicaciones reales con técnicas de *Prompt Engineering*
-* 🏗️ Aplicando **Arquitectura Hexagonal** y *Clean Code* en mis proyectos
+* 🏗️ Aplicando **Arquitectura Modular** y *Clean Code* en mis proyectos
 * 📚 Estudiando patrones de diseño para sistemas distribuidos
 * 💬 Abierto a charlar sobre: Django, IA aplicada, arquitectura de software
 
@@ -102,32 +102,78 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 ## ⚙️ Stack técnico
 
-**Lenguajes**
-<kbd>Python</kbd> <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>R</kbd>
+### 🧬 Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
 
-**Frameworks / Web**
-<kbd>Angular</kbd> <kbd>Django REST Framework</kbd> <kbd>FastAPI</kbd> <kbd>Next.js</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>TailwindCSS</kbd>
+### 🌐 Frameworks / Web
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+</p>
 
-**Móvil y otros entornos**
-<kbd>Jetpack Compose</kbd> <kbd>Unity</kbd> <kbd>Oracle APEX</kbd>
+### 📱 Móvil y otros entornos
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
+</p>
 
-**Bases de datos**
-<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd> <kbd>Oracle</kbd>
+### 🗄️ Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
 
-**Arquitectura y prácticas**
-<kbd>Arquitectura Hexagonal</kbd> <kbd>Clean Code</kbd> <kbd>Diseño modular</kbd> <kbd>Prompt Engineering</kbd> <kbd>Domain-Driven Design</kbd>
+### 🏗️ Arquitectura y prácticas
+<p>
+  <img src="https://img.shields.io/badge/Arquitectura%20Modular-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" alt="Arquitectura Modular" />
+  <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=codecraft&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Diseño%20Modular-9C27B0?style=for-the-badge&logo=puzzle&logoColor=white" alt="Diseño modular" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Domain--Driven%20Design-2196F3?style=for-the-badge&logo=ddd&logoColor=white" alt="Domain-Driven Design" />
+</p>
 
-**Herramientas y DevOps**
-<kbd>Git</kbd> <kbd>Docker</kbd> <kbd>GitHub Actions</kbd> <kbd>Figma</kbd> <kbd>Canva</kbd>
+### 🛠️ Herramientas y DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
 ---
+
+## 🤖 IA & Agentes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI GPT-4/5" />
+  <img src="https://img.shields.io/badge/Qwen-0078D4?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/DeepSeek-1A4EB8?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/GLM_(Zhipu)-2C5F8A?style=flat-square&logo=zhipuai&logoColor=white" alt="GLM" />
+</p>
 
 ## 📡 Mi Tech Radar Personal
 
 | Tecnología | Estado | Justificación |
 |:-----------|:-------|:--------------|
 | Django + DRF | ✅ Adopt | Base sólida de mis proyectos backend |
-| Arquitectura Hexagonal | ✅ Adopt | Independencia de frameworks y testabilidad |
+| Arquitectura Modular | ✅ Adopt | Independencia de frameworks y testabilidad |
 | FastAPI | 🧪 Trial | Microservicios de alto rendimiento con IA |
 | Docker | 🧪 Trial | Containerización de mis aplicaciones |
 | Kubernetes | 📋 Assess | Próximo paso para escalar sistemas |
@@ -170,13 +216,11 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 </div>
 
 ### 🌐 Gráfica 3D de contribuciones
-<!-- Se genera y se auto-actualiza con el workflow profile-3d-contrib.yml -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
 </p>
 
 ### 🐍 Snake de contribuciones
-<!-- Se genera y se auto-actualiza con el workflow snake.yml -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
