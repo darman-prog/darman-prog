@@ -55,7 +55,7 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 ### 🔭 Actualmente estoy...
 
 * 🧪 Integrando **LLMs** en aplicaciones reales con técnicas de *Prompt Engineering*
-* 🏗️ Aplicando **Arquitectura Modular** y *Clean Code* en mis proyectos
+* 🏗️ Aplicando **arquitectura por capas**, **arquitectura hexagonal** y **diseño guiado por el dominio (DDD)**, con *Clean Code* en mis proyectos
 * 📚 Estudiando patrones de diseño para sistemas distribuidos
 * 💬 Abierto a charlar sobre: Django, IA aplicada, arquitectura de software
 
@@ -138,13 +138,13 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-### 🏗️ Arquitectura y prácticas
+### 🏗️ Arquitecturas y prácticas
 <p>
-  <img src="https://img.shields.io/badge/Arquitectura%20Modular-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" alt="Arquitectura Modular" />
+  <img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-FF6F00?style=for-the-badge" alt="Arquitectura por capas" />
+  <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-9C27B0?style=for-the-badge" alt="Arquitectura hexagonal" />
+  <img src="https://img.shields.io/badge/Dise%C3%B1o%20guiado%20por%20el%20dominio%20%28DDD%29-2196F3?style=for-the-badge" alt="Diseño guiado por el dominio (DDD)" />
   <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=codecraft&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Diseño%20Modular-9C27B0?style=for-the-badge&logo=puzzle&logoColor=white" alt="Diseño modular" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Domain--Driven%20Design-2196F3?style=for-the-badge&logo=ddd&logoColor=white" alt="Domain-Driven Design" />
 </p>
 
 ### 🛠️ Herramientas y DevOps
@@ -173,7 +173,9 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 | Tecnología | Estado | Justificación |
 |:-----------|:-------|:--------------|
 | Django + DRF | ✅ Adopt | Base sólida de mis proyectos backend |
-| Arquitectura Modular | ✅ Adopt | Independencia de frameworks y testabilidad |
+| Arquitectura por capas | ✅ Adopt | Separación de responsabilidades y mantenibilidad |
+| Arquitectura hexagonal | 🧪 Trial | Aislamiento del dominio con puertos y adaptadores |
+| Diseño guiado por el dominio (DDD) | 🧪 Trial | Modelado del dominio y lenguaje ubicuo |
 | FastAPI | 🧪 Trial | Microservicios de alto rendimiento con IA |
 | Docker | 🧪 Trial | Containerización de mis aplicaciones |
 | Kubernetes | 📋 Assess | Próximo paso para escalar sistemas |
