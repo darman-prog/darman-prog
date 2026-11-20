@@ -1,14 +1,10 @@
 <div align="center">
 
-<p align="center"><img src="https://github.com/darman-prog.png" width="100" alt="Avatar de Diego Andrés Meza Rodríguez" /></p>
+<h1 align="center">Diego Andrés Meza Rodríguez</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2000&pause=0&color=D5DAF0&center=true&vCenter=true&multiline=false&repeat=false&width=600&height=50&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez" alt="Diego Andrés Meza Rodríguez" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=2500&pause=0&color=6FD8EE&center=true&vCenter=true&multiline=false&repeat=false&width=760&height=40&lines=Desarrollo+full-stack+%C2%B7+Integraci%C3%B3n+de+LLMs+%C2%B7+Arquitectura+de+software" alt="Desarrollo full-stack · Integración de LLMs · Arquitectura de software" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=20&duration=2500&pause=0&color=6FD8EE&center=true&vCenter=true&multiline=false&repeat=false&width=720&height=40&lines=Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Software Developer · AI Integrator · Backend + Frontend" />
-
-<p><sub>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</sub></p>
+<p><sub>Estudiante de Ingeniería de Sistemas/Software (UNAB) · 📍 Bucaramanga, Colombia · Abierto a prácticas</sub></p>
 
 </div>
 
@@ -16,27 +12,12 @@
 
 ## 🧠 Sobre mí
 
-Estudio Ingeniería de Sistemas/Software en la UNAB, una carrera que abarca tanto el desarrollo de software como los fundamentos de sistemas: bases de datos, arquitectura, ingeniería de software, entre otros.
+Estudio Ingeniería de Sistemas/Software en la UNAB. Construyo aplicaciones web y móviles de punta a punta, y me interesa la arquitectura de software y la integración de LLMs en productos reales. Mi meta es convertirme en **Software Architect / Tech Leader**.
 
-Soy un desarrollador en formación apasionado por construir software, pero con una visión que va más allá del código. Me interesa no solo programar, sino:
+* 🔭 **Ahora mismo:** integro LLMs en aplicaciones con *Prompt Engineering* y estudio patrones de diseño para sistemas distribuidos.
+* 💬 **Hablemos de:** Django, IA aplicada y arquitectura de software.
 
-* 🏗️ Diseñar arquitecturas de software sólidas
-* 🤖 Integrar inteligencia artificial (LLMs) en aplicaciones reales
-* 🧩 Entender cómo se construyen sistemas grandes y escalables
-* 🎯 Tomar decisiones técnicas con criterio
-
-Disfruto el proceso de convertir ideas en soluciones funcionales, desde la lógica hasta la estructura completa del sistema.
-
-### 🎯 Objetivo profesional
-
-Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistemas robustos, liderar productos tecnológicos, integrar IA generativa y orquestar equipos, tecnologías y procesos.
-
-### 🔭 Actualmente estoy...
-
-* 🧪 Integrando **LLMs** en aplicaciones reales con técnicas de *Prompt Engineering*
-* 🏗️ Aplicando **arquitectura por capas**, **arquitectura hexagonal** y **diseño guiado por el dominio (DDD)**, con *Clean Code* en mis proyectos
-* 📚 Estudiando patrones de diseño para sistemas distribuidos
-* 💬 Abierto a charlar sobre: Django, IA aplicada, arquitectura de software
+> 🌎 **English:** Systems Engineering student at UNAB. I build full-stack web and mobile apps and integrate LLMs into real products. Interested in software architecture. Open to internships and collaborations.
 
 ---
 
@@ -63,48 +44,36 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 > `React` `TypeScript` `Vite` `Netlify`<br/>
 > [Demo de Atlas Mágico](https://atlasmagicop.netlify.app/) · [Repo de Atlas Mágico](https://github.com/darman-prog/atlas-magico)
 
-**También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes) · [Teiba](https://github.com/darman-prog/Teiba) (FastAPI + React).
+> **⚙️ [Teiba](https://github.com/darman-prog/Teiba)**<br/>
+> Proyecto full-stack con backend en FastAPI y frontend en React.<br/>
+> `FastAPI` `React`<br/>
+> [Repo de Teiba](https://github.com/darman-prog/Teiba)
+
+**También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes).
 
 [Ver todos los repositorios →](https://github.com/darman-prog?tab=repositories)
 
 ---
 
-## ⚙️ Stack técnico
+## ⚙️ Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,postgres&theme=dark" alt="Python, Java, Django, FastAPI y PostgreSQL" />
-</p>
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,postgres&theme=dark" alt="Python, Java, Django, FastAPI y PostgreSQL" />
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,react,angular,nextjs,tailwind&theme=dark" alt="TypeScript, React, Angular, Next.js y TailwindCSS" />
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=typescript,react,angular,nextjs,tailwind&theme=dark" alt="TypeScript, React, Angular, Next.js y TailwindCSS" />
 
-### Mobile y datos
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,sqlite&theme=dark" alt="Kotlin, Android Studio, MySQL y SQLite" />
-  <img src="https://cdn.simpleicons.org/jetpackcompose/82aaff" width="48" height="48" alt="Jetpack Compose" />
-</p>
+**Mobile y datos**<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,sqlite&theme=dark" alt="Kotlin, Android Studio, MySQL y SQLite" /> <img src="https://cdn.simpleicons.org/jetpackcompose/82aaff" width="48" height="48" alt="Jetpack Compose" />
 
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,firebase&theme=dark" alt="Docker, Git, GitHub Actions y Firebase" />
-</p>
+**DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,firebase&theme=dark" alt="Docker, Git, GitHub Actions y Firebase" />
 
-### Arquitectura y prácticas
-<p>
-  <img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-50689d?style=flat-square" alt="Arquitectura por capas" />
-  <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-458493?style=flat-square" alt="Arquitectura hexagonal" />
-  <img src="https://img.shields.io/badge/Dise%C3%B1o%20guiado%20por%20el%20dominio%20%28DDD%29-4e8670?style=flat-square" alt="Diseño guiado por el dominio (DDD)" />
-  <img src="https://img.shields.io/badge/Clean%20Code-9d7f47?style=flat-square" alt="Clean Code" />
-</p>
+**Arquitectura**<br/>
+<img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-50689d?style=flat-square" alt="Arquitectura por capas" /> <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-458493?style=flat-square" alt="Arquitectura hexagonal" /> <img src="https://img.shields.io/badge/Dise%C3%B1o%20guiado%20por%20el%20dominio%20%28DDD%29-4e8670?style=flat-square" alt="Diseño guiado por el dominio (DDD)" /> <img src="https://img.shields.io/badge/Clean%20Code-9d7f47?style=flat-square" alt="Clean Code" />
 
-### IA & Agentes
-<p>
-  <img src="https://img.shields.io/badge/OpenCode-1d2132?style=flat-square&logo=terminal&logoColor=82aaff" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Antigravity-1d2132?style=flat-square&logo=google&logoColor=82aaff" alt="Google Antigravity (Argon/Neon)" />
-</p>
+**IA y agentes**<br/>
+<img src="https://img.shields.io/badge/OpenCode-1d2132?style=flat-square&logo=terminal&logoColor=82aaff" alt="OpenCode" /> <img src="https://img.shields.io/badge/Antigravity-1d2132?style=flat-square&logo=google&logoColor=82aaff" alt="Google Antigravity (Argon/Neon)" />
 
 ---
 
@@ -124,15 +93,7 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 
 ---
 
-## 📊 Actividad en GitHub
-
-> **Stats** cuenta commits históricos; la **gráfica 3D** muestra contribuciones de los últimos 12 meses.
-
-<div align="center">
-
-![Estadísticas históricas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darman-prog&theme=dark&bg_color=12141e&text_color=d5daf0&title_color=82aaff&icon_color=82aaff&border_color=5d6689)
-
-</div>
+## 📊 Actividad
 
 ### 🌐 Gráfica 3D: contribuciones del último año
 <p align="center">
