@@ -2,15 +2,9 @@
 
 <img src="https://github.com/darman-prog.png" width="120" alt="Avatar de Diego Andrés Meza Rodríguez" />
 
-<h1>Diego Andrés Meza Rodríguez</h1>
-
-<p><b>Software Developer</b> · AI Integrator · Backend + Frontend</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
 
 <p>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</p>
-
-<a href="https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/"><img src="https://img.shields.io/badge/LinkedIn-1d2132?style=for-the-badge&logo=linkedin&logoColor=82aaff" alt="LinkedIn" /></a>
-<a href="mailto:damezago24@gmail.com"><img src="https://img.shields.io/badge/Email-1d2132?style=for-the-badge&logo=gmail&logoColor=82aaff" alt="Email" /></a>
-<a href="https://instagram.com/dameza24"><img src="https://img.shields.io/badge/Instagram-1d2132?style=for-the-badge&logo=instagram&logoColor=82aaff" alt="Instagram" /></a>
 
 </div>
 
