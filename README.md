@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/darman-prog.png" width="100" alt="Avatar de Diego Andrés Meza Rodríguez" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&duration=3000&pause=500&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
 
 <p>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</p>
 
@@ -38,10 +38,26 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 
 ## 🚀 Proyectos
 
-| Proyecto | Proyecto |
-|---|---|
-| **🟢 Live · [Scrumter](https://scrumter.io)**<br/>Gestión de proyectos Scrum con IA: backlog, historias, sprints y Kanban.<br/>**Rol:** Co-autor.<br/>`React` `TypeScript` `Vite` `Tailwind`<br/>[Demo de Scrumter](https://scrumter.io) · [Repo de Scrumter](https://github.com/darman-prog/scrumter_landing_page) | **🟢 Live · [Nubi](https://nubi-six.vercel.app)**<br/>PWA de higiene del sueño para adolescentes, con contenido basado en evidencia.<br/>`React` `TypeScript` `Vite` `PWA`<br/>[Demo de Nubi](https://nubi-six.vercel.app) · [Repo de Nubi](https://github.com/darman-prog/Nubi) |
-| **🟢 Live · [Systematic](https://systematic-iota.vercel.app)**<br/>App de estudio con quiz, simulacros, flashcards y repaso espaciado.<br/>`TypeScript` `Vite` `Tailwind` `Firebase`<br/>[Demo de Systematic](https://systematic-iota.vercel.app) · [Repo de Systematic](https://github.com/darman-prog/Systematic) | **🟢 Live · [Atlas Mágico](https://atlasmagicop.netlify.app/)**<br/>Juego educativo de geografía y trivia por país con gamificación.<br/>`React` `TypeScript` `Vite` `Netlify`<br/>[Demo de Atlas Mágico](https://atlasmagicop.netlify.app/) · [Repo de Atlas Mágico](https://github.com/darman-prog/atlas-magico) |
+> **🟢 Live · [Scrumter](https://scrumter.io)**<br/>
+> Gestión de proyectos Scrum con IA: backlog, historias, sprints y Kanban.<br/>
+> **Rol:** Co-autor.<br/>
+> `React` `TypeScript` `Vite` `Tailwind`<br/>
+> [Demo de Scrumter](https://scrumter.io) · [Repo de Scrumter](https://github.com/darman-prog/scrumter_landing_page)
+
+> **🟢 Live · [Nubi](https://nubi-six.vercel.app)**<br/>
+> PWA de higiene del sueño para adolescentes, con contenido basado en evidencia.<br/>
+> `React` `TypeScript` `Vite` `PWA`<br/>
+> [Demo de Nubi](https://nubi-six.vercel.app) · [Repo de Nubi](https://github.com/darman-prog/Nubi)
+
+> **🟢 Live · [Systematic](https://systematic-iota.vercel.app)**<br/>
+> App de estudio con quiz, simulacros, flashcards y repaso espaciado.<br/>
+> `TypeScript` `Vite` `Tailwind` `Firebase`<br/>
+> [Demo de Systematic](https://systematic-iota.vercel.app) · [Repo de Systematic](https://github.com/darman-prog/Systematic)
+
+> **🟢 Live · [Atlas Mágico](https://atlasmagicop.netlify.app/)**<br/>
+> Juego educativo de geografía y trivia por país con gamificación.<br/>
+> `React` `TypeScript` `Vite` `Netlify`<br/>
+> [Demo de Atlas Mágico](https://atlasmagicop.netlify.app/) · [Repo de Atlas Mágico](https://github.com/darman-prog/atlas-magico)
 
 **También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes) · [Teiba](https://github.com/darman-prog/Teiba) (FastAPI + React).
 
