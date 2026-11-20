@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="170" viewBox="0 0 320 170" role="img" aria-labelledby="t d">
+  <title id="t">Teiba</title>
+  <desc id="d">Teiba, proyecto full-stack con FastAPI y React.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1d30"/>
+      <stop offset="1" stop-color="#10121b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="40" cy="40" r="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7fd6a4" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#7fd6a4" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="320" height="170" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="320" height="170" fill="url(#bg)"/>
+    <rect width="320" height="170" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="319" height="169" rx="14" fill="none" stroke="#2b3050"/>
+  <rect x="16" y="14" width="40" height="40" rx="10" fill="#7fd6a4" fill-opacity=".12" stroke="#7fd6a4" stroke-opacity=".35"/>
+  <g transform="translate(16,14) scale(0.769)">
+    <line x1="15" y1="26" x2="37" y2="15" stroke="#7fd6a4" stroke-width="2" stroke-opacity=".6"/>
+    <line x1="15" y1="26" x2="37" y2="37" stroke="#7fd6a4" stroke-width="2" stroke-opacity=".6"/>
+    <circle cx="15" cy="26" r="5.5" fill="#7fd6a4"/>
+    <circle cx="37" cy="15" r="4.5" fill="#7fd6a4" fill-opacity=".7"/>
+    <circle cx="37" cy="37" r="4.5" fill="#7fd6a4" fill-opacity=".7"/>
+  </g>
+  <text x="66" y="36" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e4e8fb">Teiba</text>
+  <rect x="228" y="14" width="76" height="18" rx="9" fill="#d5daf0" fill-opacity=".06" stroke="#d5daf0" stroke-opacity=".18"/>
+  <text x="238" y="27" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" fill="#c3cbea">Repositorio</text>
+  <text x="20" y="72" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#aab2d5">Proyecto full-stack con backend en</text>
+  <text x="20" y="86" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#aab2d5">FastAPI y frontend en React.</text>
+  <line x1="20" y1="102" x2="300" y2="102" stroke="#2b3050"/>
+  <rect x="20" y="116" width="54" height="20" rx="10" fill="#7fd6a4" fill-opacity=".12" stroke="#7fd6a4" stroke-opacity=".3"/>
+  <text x="30" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#7fd6a4">FastAPI</text>
+  <rect x="80" y="116" width="42" height="20" rx="10" fill="#7fd6a4" fill-opacity=".12" stroke="#7fd6a4" stroke-opacity=".3"/>
+  <text x="90" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#7fd6a4">React</text>
+</svg>

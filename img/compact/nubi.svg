@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="170" viewBox="0 0 320 170" role="img" aria-labelledby="t d">
+  <title id="t">Nubi</title>
+  <desc id="d">Nubi, PWA de higiene del sueño para adolescentes. React, TypeScript, Vite y PWA.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1d30"/>
+      <stop offset="1" stop-color="#10121b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="40" cy="40" r="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b39cff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#b39cff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="320" height="170" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="320" height="170" fill="url(#bg)"/>
+    <rect width="320" height="170" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="319" height="169" rx="14" fill="none" stroke="#2b3050"/>
+  <rect x="16" y="14" width="40" height="40" rx="10" fill="#b39cff" fill-opacity=".12" stroke="#b39cff" stroke-opacity=".35"/>
+  <g transform="translate(16,14) scale(0.769)">
+    <mask id="mn"><rect width="52" height="52" fill="#fff"/><circle cx="31" cy="21" r="11" fill="#000"/></mask>
+    <circle cx="24" cy="28" r="12.5" fill="#b39cff" mask="url(#mn)"/>
+    <circle cx="37" cy="14" r="1.8" fill="#b39cff"/>
+    <circle cx="41" cy="24" r="1.2" fill="#b39cff" fill-opacity=".7"/>
+  </g>
+  <text x="66" y="36" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e4e8fb">Nubi</text>
+  <rect x="246" y="14" width="58" height="18" rx="9" fill="#7fd6a4" fill-opacity=".12" stroke="#7fd6a4" stroke-opacity=".35"/>
+  <circle cx="254" cy="23" r="2.5" fill="#7fd6a4"/>
+  <text x="261" y="27" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" fill="#d9f5e6">En vivo</text>
+  <text x="20" y="72" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#aab2d5">PWA de higiene del sueño para</text>
+  <text x="20" y="86" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#aab2d5">adolescentes, con base en evidencia.</text>
+  <line x1="20" y1="102" x2="300" y2="102" stroke="#2b3050"/>
+  <rect x="20" y="116" width="42" height="20" rx="10" fill="#b39cff" fill-opacity=".12" stroke="#b39cff" stroke-opacity=".3"/>
+  <text x="30" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#b39cff">React</text>
+  <rect x="68" y="116" width="64" height="20" rx="10" fill="#b39cff" fill-opacity=".12" stroke="#b39cff" stroke-opacity=".3"/>
+  <text x="78" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#b39cff">TypeScript</text>
+  <rect x="138" y="116" width="34" height="20" rx="10" fill="#b39cff" fill-opacity=".12" stroke="#b39cff" stroke-opacity=".3"/>
+  <text x="148" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#b39cff">Vite</text>
+  <rect x="178" y="116" width="34" height="20" rx="10" fill="#b39cff" fill-opacity=".12" stroke="#b39cff" stroke-opacity=".3"/>
+  <text x="188" y="130" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#b39cff">PWA</text>
+</svg>
