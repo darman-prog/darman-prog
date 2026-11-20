@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/darman-prog.png" width="100" alt="Avatar de Diego Andrés Meza Rodríguez" />
+<p align="center"><img src="https://github.com/darman-prog.png" width="100" alt="Avatar de Diego Andrés Meza Rodríguez" /></p>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
 
 <p>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</p>
 
