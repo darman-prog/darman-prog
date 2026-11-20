@@ -186,6 +186,8 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 ## 📊 Actividad en GitHub
 
+> En **Stats**, "Total Commits" cuenta solo commits; **Profile Details** y **Racha** cuentan contribuciones (commits + PRs + issues + reviews). Los totales son históricos; el gráfico de líneas de Profile Details y la **gráfica 3D** cubren los últimos 12 meses. Las cifras no son comparables entre sí.
+
 <table>
 <tr>
 <td width="100%">
@@ -217,9 +219,9 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 </div>
 
-### 🌐 Gráfica 3D de contribuciones
+### 🌐 Gráfica 3D: contribuciones del último año
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfica 3D de contribuciones del último año" />
 </p>
 
 ### 🐍 Snake de contribuciones
