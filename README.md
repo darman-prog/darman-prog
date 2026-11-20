@@ -23,35 +23,41 @@ Estudio Ingeniería de Sistemas/Software en la UNAB. Construyo aplicaciones web 
 
 ## 🚀 Proyectos
 
-> **🟢 Live · [Scrumter](https://scrumter.io)**<br/>
-> Gestión de proyectos Scrum con IA: backlog, historias, sprints y Kanban.<br/>
-> **Rol:** Co-autor.<br/>
-> `React` `TypeScript` `Vite` `Tailwind`<br/>
-> [Demo de Scrumter](https://scrumter.io) · [Repo de Scrumter](https://github.com/darman-prog/scrumter_landing_page)
+<p align="center">
+  <a href="https://scrumter.io"><img src="./img/scrumter.svg" width="440" alt="Scrumter — gestión de proyectos Scrum con IA. React, TypeScript, Vite y Tailwind." /></a>
+</p>
 
-> **🟢 Live · [Nubi](https://nubi-six.vercel.app)**<br/>
-> PWA de higiene del sueño para adolescentes, con contenido basado en evidencia.<br/>
-> `React` `TypeScript` `Vite` `PWA`<br/>
-> [Demo de Nubi](https://nubi-six.vercel.app) · [Repo de Nubi](https://github.com/darman-prog/Nubi)
+<p align="center"><a href="https://scrumter.io">Demo de Scrumter</a> · <a href="https://github.com/darman-prog/scrumter_landing_page">Repo de Scrumter</a></p>
 
-> **🟢 Live · [Systematic](https://systematic-iota.vercel.app)**<br/>
-> App de estudio con quiz, simulacros, flashcards y repaso espaciado.<br/>
-> `TypeScript` `Vite` `Tailwind` `Firebase`<br/>
-> [Demo de Systematic](https://systematic-iota.vercel.app) · [Repo de Systematic](https://github.com/darman-prog/Systematic)
+<p align="center">
+  <a href="https://nubi-six.vercel.app"><img src="./img/nubi.svg" width="440" alt="Nubi — PWA de higiene del sueño para adolescentes. React, TypeScript, Vite y PWA." /></a>
+</p>
 
-> **🟢 Live · [Atlas Mágico](https://atlasmagicop.netlify.app/)**<br/>
-> Juego educativo de geografía y trivia por país con gamificación.<br/>
-> `React` `TypeScript` `Vite` `Netlify`<br/>
-> [Demo de Atlas Mágico](https://atlasmagicop.netlify.app/) · [Repo de Atlas Mágico](https://github.com/darman-prog/atlas-magico)
+<p align="center"><a href="https://nubi-six.vercel.app">Demo de Nubi</a> · <a href="https://github.com/darman-prog/Nubi">Repo de Nubi</a></p>
 
-> **⚙️ [Teiba](https://github.com/darman-prog/Teiba)**<br/>
-> Proyecto full-stack con backend en FastAPI y frontend en React.<br/>
-> `FastAPI` `React`<br/>
-> [Repo de Teiba](https://github.com/darman-prog/Teiba)
+<p align="center">
+  <a href="https://systematic-iota.vercel.app"><img src="./img/systematic.svg" width="440" alt="Systematic — app de estudio con quiz, simulacros, flashcards y repaso espaciado. TypeScript, Vite, Tailwind y Firebase." /></a>
+</p>
 
-**También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes).
+<p align="center"><a href="https://systematic-iota.vercel.app">Demo de Systematic</a> · <a href="https://github.com/darman-prog/Systematic">Repo de Systematic</a></p>
 
-[Ver todos los repositorios →](https://github.com/darman-prog?tab=repositories)
+<p align="center">
+  <a href="https://atlasmagicop.netlify.app/"><img src="./img/atlas-magico.svg" width="440" alt="Atlas Mágico — juego educativo de geografía y trivia por país. React, TypeScript, Vite y Netlify." /></a>
+</p>
+
+<p align="center"><a href="https://atlasmagicop.netlify.app/">Demo de Atlas Mágico</a> · <a href="https://github.com/darman-prog/atlas-magico">Repo de Atlas Mágico</a></p>
+
+<p align="center">
+  <a href="https://github.com/darman-prog/Teiba"><img src="./img/teiba.svg" width="440" alt="Teiba — proyecto full-stack con FastAPI y React." /></a>
+</p>
+
+<p align="center"><a href="https://github.com/darman-prog/Teiba">Repo de Teiba</a></p>
+
+<p align="center">
+  <a href="https://github.com/darman-prog?tab=repositories"><img src="./img/mas-proyectos.svg" width="440" alt="Más proyectos: EcoReceta y OpenCodeConfig." /></a>
+</p>
+
+<p align="center"><a href="https://github.com/darman-prog?tab=repositories">Ver todos los repositorios →</a></p>
 
 ---
 
