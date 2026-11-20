@@ -1,5 +1,18 @@
-
 <div align="center">
+
+<img src="https://github.com/darman-prog.png" width="120" alt="Avatar de Diego Andrés Meza Rodríguez" />
+
+<h1>Diego Andrés Meza Rodríguez</h1>
+
+<p><b>Software Developer</b> · AI Integrator · Backend + Frontend</p>
+
+<p>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</p>
+
+<a href="https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/"><img src="https://img.shields.io/badge/LinkedIn-1d2132?style=for-the-badge&logo=linkedin&logoColor=82aaff" alt="LinkedIn" /></a>
+<a href="mailto:damezago24@gmail.com"><img src="https://img.shields.io/badge/Email-1d2132?style=for-the-badge&logo=gmail&logoColor=82aaff" alt="Email" /></a>
+<a href="https://instagram.com/dameza24"><img src="https://img.shields.io/badge/Instagram-1d2132?style=for-the-badge&logo=instagram&logoColor=82aaff" alt="Instagram" /></a>
+
+</div>
 
 ---
 
@@ -31,9 +44,10 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 
 ## 🚀 Proyectos
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Proyecto | Proyecto |
+|---|---|
+| **🟢 Live · [Scrumter](https://scrumter.io)**<br/>Gestión de proyectos Scrum con IA: backlog, historias, sprints y Kanban.<br/>**Rol:** Co-autor.<br/>`React` `TypeScript` `Vite` `Tailwind`<br/>[Demo de Scrumter](https://scrumter.io) · [Repo de Scrumter](https://github.com/darman-prog/scrumter_landing_page) | **🟢 Live · [Nubi](https://nubi-six.vercel.app)**<br/>PWA de higiene del sueño para adolescentes, con contenido basado en evidencia.<br/>`React` `TypeScript` `Vite` `PWA`<br/>[Demo de Nubi](https://nubi-six.vercel.app) · [Repo de Nubi](https://github.com/darman-prog/Nubi) |
+| **🟢 Live · [Systematic](https://systematic-iota.vercel.app)**<br/>App de estudio con quiz, simulacros, flashcards y repaso espaciado.<br/>`TypeScript` `Vite` `Tailwind` `Firebase`<br/>[Demo de Systematic](https://systematic-iota.vercel.app) · [Repo de Systematic](https://github.com/darman-prog/Systematic) | **🟢 Live · [Atlas Mágico](https://atlasmagicop.netlify.app/)**<br/>Juego educativo de geografía y trivia por país con gamificación.<br/>`React` `TypeScript` `Vite` `Netlify`<br/>[Demo de Atlas Mágico](https://atlasmagicop.netlify.app/) · [Repo de Atlas Mágico](https://github.com/darman-prog/atlas-magico) |
 
 **También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes) · [Teiba](https://github.com/darman-prog/Teiba) (FastAPI + React).
 
@@ -44,45 +58,27 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 ## ⚙️ Stack técnico
 
 ### Backend
-
 <p>
-  <img src="https://img.shields.io/badge/Python-1d2132?style=flat-square&logo=python&logoColor=82aaff" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-1d2132?style=flat-square&logo=openjdk&logoColor=82aaff" alt="Java" />
-  <img src="https://img.shields.io/badge/Django-1d2132?style=flat-square&logo=django&logoColor=82aaff" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-1d2132?style=flat-square&logo=fastapi&logoColor=82aaff" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1d2132?style=flat-square&logo=postgresql&logoColor=82aaff" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,postgres&theme=dark" alt="Python, Java, Django, FastAPI y PostgreSQL" />
 </p>
 
 ### Frontend
-
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-1d2132?style=flat-square&logo=typescript&logoColor=6fd8ee" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1d2132?style=flat-square&logo=react&logoColor=6fd8ee" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-1d2132?style=flat-square&logo=angular&logoColor=6fd8ee" alt="Angular" />
-  <img src="https://img.shields.io/badge/Next.js-1d2132?style=flat-square&logo=nextdotjs&logoColor=6fd8ee" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-1d2132?style=flat-square&logo=tailwindcss&logoColor=6fd8ee" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,angular,nextjs,tailwind&theme=dark" alt="TypeScript, React, Angular, Next.js y TailwindCSS" />
 </p>
 
 ### Mobile y datos
-
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-1d2132?style=flat-square&logo=kotlin&logoColor=7fdcb4" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-1d2132?style=flat-square&logo=jetpackcompose&logoColor=7fdcb4" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/MySQL-1d2132?style=flat-square&logo=mysql&logoColor=7fdcb4" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-1d2132?style=flat-square&logo=sqlite&logoColor=7fdcb4" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,mysql,sqlite&theme=dark" alt="Kotlin, Android Studio, MySQL y SQLite" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose/82aaff" width="48" height="48" alt="Jetpack Compose" />
 </p>
 
 ### DevOps
-
 <p>
-  <img src="https://img.shields.io/badge/Docker-1d2132?style=flat-square&logo=docker&logoColor=f2c36b" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-1d2132?style=flat-square&logo=git&logoColor=f2c36b" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1d2132?style=flat-square&logo=githubactions&logoColor=f2c36b" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Firebase-1d2132?style=flat-square&logo=firebase&logoColor=f2c36b" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,firebase&theme=dark" alt="Docker, Git, GitHub Actions y Firebase" />
 </p>
 
 ### Arquitectura y prácticas
-
 <p>
   <img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-50689d?style=flat-square" alt="Arquitectura por capas" />
   <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-458493?style=flat-square" alt="Arquitectura hexagonal" />
@@ -91,7 +87,6 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 </p>
 
 ### IA & Agentes
-
 <p>
   <img src="https://img.shields.io/badge/OpenCode-1d2132?style=flat-square&logo=terminal&logoColor=82aaff" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Antigravity-1d2132?style=flat-square&logo=google&logoColor=82aaff" alt="Google Antigravity (Argon/Neon)" />
@@ -101,15 +96,15 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 
 ## 📡 Mi Tech Radar Personal
 
-| Tecnología                         | Estado    | Justificación                                    |
-| :---------------------------------- | :-------- | :------------------------------------------------ |
-| Django + DRF                        | ✅ Adopt  | Base sólida de mis proyectos backend             |
-| Arquitectura por capas              | ✅ Adopt  | Separación de responsabilidades y mantenibilidad |
-| Arquitectura hexagonal              | 🧪 Trial  | Aislamiento del dominio con puertos y adaptadores |
-| Diseño guiado por el dominio (DDD) | 🧪 Trial  | Modelado del dominio y lenguaje ubicuo            |
-| FastAPI                             | 🧪 Trial  | Microservicios de alto rendimiento con IA         |
-| Docker                              | 🧪 Trial  | Containerización de mis aplicaciones             |
-| Kubernetes                          | 📋 Assess | Próximo paso para escalar sistemas               |
+| Tecnología | Estado | Justificación |
+|:-----------|:-------|:--------------|
+| Django + DRF | ✅ Adopt | Base sólida de mis proyectos backend |
+| Arquitectura por capas | ✅ Adopt | Separación de responsabilidades y mantenibilidad |
+| Arquitectura hexagonal | 🧪 Trial | Aislamiento del dominio con puertos y adaptadores |
+| Diseño guiado por el dominio (DDD) | 🧪 Trial | Modelado del dominio y lenguaje ubicuo |
+| FastAPI | 🧪 Trial | Microservicios de alto rendimiento con IA |
+| Docker | 🧪 Trial | Containerización de mis aplicaciones |
+| Kubernetes | 📋 Assess | Próximo paso para escalar sistemas |
 
 > 💡 *Adopt = lo uso a diario · Trial = lo estoy probando · Assess = lo estoy investigando*
 
@@ -121,14 +116,16 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 
 <div align="center">
 
-### 🌐 Gráfica 3D: contribuciones del último año
+![Estadísticas históricas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darman-prog&theme=dark&bg_color=12141e&text_color=d5daf0&title_color=82aaff&icon_color=82aaff&border_color=5d6689)
 
+</div>
+
+### 🌐 Gráfica 3D: contribuciones del último año
 <p align="center">
   <img src="./profile-3d-contrib/profile-darmandev.svg" alt="Gráfica 3D de contribuciones del último año" />
 </p>
 
 ### 🐍 Snake de contribuciones
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones en forma de serpiente" />
 </p>
@@ -138,3 +135,10 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 ## 📫 Contacto
 
 <div align="center">
+
+**¿Te interesa colaborar?**<br/>
+Estoy abierto a prácticas, proyectos open-source y colaboraciones técnicas.
+
+[📩 damezago24@gmail.com](mailto:damezago24@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/) · [📸 Instagram](https://instagram.com/dameza24)
+
+</div>
