@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d-contrib.yml"
+      - "profile-3d-contrib/darmandev.json"
 
 permissions:
   contents: write
@@ -20,6 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_LANGUAGES: 5
+          SETTING_JSON: profile-3d-contrib/darmandev.json
 
       - name: Commit y push
         run: |

@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-darmandev.svg",
+  "backgroundColor": "#12141e",
+  "foregroundColor": "#d5daf0",
+  "strongColor": "#d5daf0",
+  "weakColor": "#9097b8",
+  "radarColor": "#6fd8ee",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1b2d29",
+    "#2a463d",
+    "#3c6656",
+    "#4e8670",
+    "#7fdcb4"
+  ]
+}

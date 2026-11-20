@@ -1,41 +1,9 @@
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Software+Developer+en+formaci%C3%B3n;AI+Integrator+%7C+LLMs+en+producci%C3%B3n;Backend+%2B+Frontend+Engineer)](https://git.io/typing-svg)
-
-🎓 Estudiante de **Ingeniería de Sistemas/Software** · Universidad Autónoma de Bucaramanga (UNAB)
-
-<a href="https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:damezago24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/dameza24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=darman-prog&label=Profile%20views&color=61dafb&style=flat" alt="visitors" />
-</p>
-
-</div>
 
 ---
 
-<table>
-<tr>
-<td width="32%" valign="top" align="center">
-
-<img src="https://github.com/darman-prog.png" width="220" style="border-radius:50%;" />
-
-<br/><br/>
-
-<kbd>📍 Bucaramanga, Colombia</kbd>
-<br/><br/>
-<kbd>🎓 Ing. Sistemas/Software</kbd>
-<br/><br/>
-<kbd>🏫 UNAB</kbd>
-<br/><br/>
-<kbd>🏗️ Software Architecture</kbd>
-
-</td>
-<td width="68%" valign="top">
-
-### 🧠 Sobre mí
+## 🧠 Sobre mí
 
 Estudio Ingeniería de Sistemas/Software en la UNAB, una carrera que abarca tanto el desarrollo de software como los fundamentos de sistemas: bases de datos, arquitectura, ingeniería de software, entre otros.
 
@@ -59,126 +27,89 @@ Convertirme en un **Software Architect / Tech Leader**, capaz de diseñar sistem
 * 📚 Estudiando patrones de diseño para sistemas distribuidos
 * 💬 Abierto a charlar sobre: Django, IA aplicada, arquitectura de software
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🗺️ [Atlas Mágico](https://github.com/darman-prog/atlas-magico)**
-Juego educativo para aprender sobre la cultura de distintos países, con preguntas de selección múltiple y mecánicas de gamificación.
+**También:** [EcoReceta](https://github.com/darman-prog/EcoReceta) (Android · Kotlin) · [OpenCodeConfig](https://github.com/darman-prog/OpenCodeConfig) (harness de agentes) · [Teiba](https://github.com/darman-prog/Teiba) (FastAPI + React).
 
-</td>
-<td width="50%" valign="top">
-
-**🥘 [EcoReceta](https://github.com/darman-prog/EcoReceta)**
-App para armar recetas de cocina usando productos disponibles en tiendas colombianas.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ [HarnessConfig](https://github.com/darman-prog/HarnessConfig)**
-Configuración personal del harness con el que trabajo junto a agentes de IA en mi flujo de desarrollo.
-
-</td>
-<td width="50%" valign="top">
-
-**📋 [Scrumter — Landing Page](https://github.com/darman-prog/scrumter_landing_page)**
-Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodología Scrum.
-
-</td>
-</tr>
-</table>
+[Ver todos los repositorios →](https://github.com/darman-prog?tab=repositories)
 
 ---
 
 ## ⚙️ Stack técnico
 
-### 🧬 Lenguajes
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-1d2132?style=flat-square&logo=python&logoColor=82aaff" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1d2132?style=flat-square&logo=openjdk&logoColor=82aaff" alt="Java" />
+  <img src="https://img.shields.io/badge/Django-1d2132?style=flat-square&logo=django&logoColor=82aaff" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-1d2132?style=flat-square&logo=fastapi&logoColor=82aaff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1d2132?style=flat-square&logo=postgresql&logoColor=82aaff" alt="PostgreSQL" />
 </p>
 
-### 🌐 Frameworks / Web
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/TypeScript-1d2132?style=flat-square&logo=typescript&logoColor=6fd8ee" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1d2132?style=flat-square&logo=react&logoColor=6fd8ee" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-1d2132?style=flat-square&logo=angular&logoColor=6fd8ee" alt="Angular" />
+  <img src="https://img.shields.io/badge/Next.js-1d2132?style=flat-square&logo=nextdotjs&logoColor=6fd8ee" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1d2132?style=flat-square&logo=tailwindcss&logoColor=6fd8ee" alt="TailwindCSS" />
 </p>
 
-### 📱 Móvil y otros entornos
+### Mobile y datos
+
 <p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
+  <img src="https://img.shields.io/badge/Kotlin-1d2132?style=flat-square&logo=kotlin&logoColor=7fdcb4" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-1d2132?style=flat-square&logo=jetpackcompose&logoColor=7fdcb4" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/MySQL-1d2132?style=flat-square&logo=mysql&logoColor=7fdcb4" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-1d2132?style=flat-square&logo=sqlite&logoColor=7fdcb4" alt="SQLite" />
 </p>
 
-### 🗄️ Bases de datos
+### DevOps
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Docker-1d2132?style=flat-square&logo=docker&logoColor=f2c36b" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-1d2132?style=flat-square&logo=git&logoColor=f2c36b" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1d2132?style=flat-square&logo=githubactions&logoColor=f2c36b" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Firebase-1d2132?style=flat-square&logo=firebase&logoColor=f2c36b" alt="Firebase" />
 </p>
 
-### 🏗️ Arquitecturas y prácticas
+### Arquitectura y prácticas
+
 <p>
-  <img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-FF6F00?style=for-the-badge" alt="Arquitectura por capas" />
-  <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-9C27B0?style=for-the-badge" alt="Arquitectura hexagonal" />
-  <img src="https://img.shields.io/badge/Dise%C3%B1o%20guiado%20por%20el%20dominio%20%28DDD%29-2196F3?style=for-the-badge" alt="Diseño guiado por el dominio (DDD)" />
-  <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=codecraft&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Arquitectura%20por%20Capas-50689d?style=flat-square" alt="Arquitectura por capas" />
+  <img src="https://img.shields.io/badge/Arquitectura%20Hexagonal-458493?style=flat-square" alt="Arquitectura hexagonal" />
+  <img src="https://img.shields.io/badge/Dise%C3%B1o%20guiado%20por%20el%20dominio%20%28DDD%29-4e8670?style=flat-square" alt="Diseño guiado por el dominio (DDD)" />
+  <img src="https://img.shields.io/badge/Clean%20Code-9d7f47?style=flat-square" alt="Clean Code" />
 </p>
 
-### 🛠️ Herramientas y DevOps
+### IA & Agentes
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/OpenCode-1d2132?style=flat-square&logo=terminal&logoColor=82aaff" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Antigravity-1d2132?style=flat-square&logo=google&logoColor=82aaff" alt="Google Antigravity (Argon/Neon)" />
 </p>
 
 ---
 
-## 🤖 IA & Agentes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=white" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI GPT-4/5" />
-  <img src="https://img.shields.io/badge/Qwen-0078D4?style=flat-square&logo=qwen&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/DeepSeek-1A4EB8?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/GLM_(Zhipu)-2C5F8A?style=flat-square&logo=zhipuai&logoColor=white" alt="GLM" />
-</p>
-
 ## 📡 Mi Tech Radar Personal
 
-| Tecnología | Estado | Justificación |
-|:-----------|:-------|:--------------|
-| Django + DRF | ✅ Adopt | Base sólida de mis proyectos backend |
-| Arquitectura por capas | ✅ Adopt | Separación de responsabilidades y mantenibilidad |
-| Arquitectura hexagonal | 🧪 Trial | Aislamiento del dominio con puertos y adaptadores |
-| Diseño guiado por el dominio (DDD) | 🧪 Trial | Modelado del dominio y lenguaje ubicuo |
-| FastAPI | 🧪 Trial | Microservicios de alto rendimiento con IA |
-| Docker | 🧪 Trial | Containerización de mis aplicaciones |
-| Kubernetes | 📋 Assess | Próximo paso para escalar sistemas |
+| Tecnología                         | Estado    | Justificación                                    |
+| :---------------------------------- | :-------- | :------------------------------------------------ |
+| Django + DRF                        | ✅ Adopt  | Base sólida de mis proyectos backend             |
+| Arquitectura por capas              | ✅ Adopt  | Separación de responsabilidades y mantenibilidad |
+| Arquitectura hexagonal              | 🧪 Trial  | Aislamiento del dominio con puertos y adaptadores |
+| Diseño guiado por el dominio (DDD) | 🧪 Trial  | Modelado del dominio y lenguaje ubicuo            |
+| FastAPI                             | 🧪 Trial  | Microservicios de alto rendimiento con IA         |
+| Docker                              | 🧪 Trial  | Containerización de mis aplicaciones             |
+| Kubernetes                          | 📋 Assess | Próximo paso para escalar sistemas               |
 
 > 💡 *Adopt = lo uso a diario · Trial = lo estoy probando · Assess = lo estoy investigando*
 
@@ -186,65 +117,24 @@ Landing page de Scrumter.io, mi herramienta de gestión de proyectos con metodol
 
 ## 📊 Actividad en GitHub
 
-> En **Stats**, "Total Commits" cuenta solo commits; **Profile Details** y **Racha** cuentan contribuciones (commits + PRs + issues + reviews). Los totales son históricos; el gráfico de líneas de Profile Details y la **gráfica 3D** cubren los últimos 12 meses. Las cifras no son comparables entre sí.
-
-<table>
-<tr>
-<td width="100%">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darman-prog&theme=tokyo_night)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darman-prog&theme=tokyo_night)
-
-</td>
-<td width="50%" valign="top">
-
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darman-prog&theme=tokyo_night)
-
-</td>
-</tr>
-</table>
+> **Stats** cuenta commits históricos; la **gráfica 3D** muestra contribuciones de los últimos 12 meses.
 
 <div align="center">
 
-![Racha](https://streak-stats.demolab.com?user=darman-prog&theme=tokyonight&hide_border=true)
-
-</div>
-
 ### 🌐 Gráfica 3D: contribuciones del último año
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfica 3D de contribuciones del último año" />
+  <img src="./profile-3d-contrib/profile-darmandev.svg" alt="Gráfica 3D de contribuciones del último año" />
 </p>
 
 ### 🐍 Snake de contribuciones
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/darman-prog/darman-prog/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones en forma de serpiente" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-📧 Email: [damezago24@gmail.com](mailto:damezago24@gmail.com)  
-🌐 [Instagram](https://instagram.com/dameza24) · [LinkedIn](https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/)
-
----
-
 <div align="center">
-
-### 🚀 ¿Te interesa colaborar?
-
-Estoy abierto a oportunidades de **prácticas, proyectos open-source y colaboraciones técnicas**.  
-Si trabajas en arquitectura de software, IA aplicada o desarrollo de productos, ¡hablemos!
-
-[📩 Escríbeme un email](mailto:damezago24@gmail.com) · [💼 Conecta en LinkedIn](https://www.linkedin.com/in/diego-andres-meza-rodriguez-b50078302/)
-
-</div>
