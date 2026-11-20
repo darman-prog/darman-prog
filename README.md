@@ -2,9 +2,13 @@
 
 <p align="center"><img src="https://github.com/darman-prog.png" width="100" alt="Avatar de Diego Andrés Meza Rodríguez" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&duration=3000&pause=500&color=82AAFF&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=80&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez;Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Diego Andrés Meza Rodríguez — Software Developer · AI Integrator · Backend + Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2000&pause=0&color=D5DAF0&center=true&vCenter=true&multiline=false&repeat=false&width=600&height=50&lines=Diego+Andr%C3%A9s+Meza+Rodr%C3%ADguez" alt="Diego Andrés Meza Rodríguez" />
 
-<p>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=20&duration=2500&pause=0&color=6FD8EE&center=true&vCenter=true&multiline=false&repeat=false&width=720&height=40&lines=Software+Developer+%C2%B7+AI+Integrator+%C2%B7+Backend+%2B+Frontend" width="100%" alt="Software Developer · AI Integrator · Backend + Frontend" />
+
+<p><sub>📍 Bucaramanga, Colombia · 🎓 Ing. de Sistemas/Software · UNAB</sub></p>
 
 </div>
 
