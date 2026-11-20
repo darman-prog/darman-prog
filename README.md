@@ -23,41 +23,38 @@ Estudio Ingeniería de Sistemas/Software en la UNAB. Construyo aplicaciones web 
 
 ## 🚀 Proyectos
 
-<p align="center">
-  <a href="https://scrumter.io"><img src="./img/scrumter.svg" width="440" alt="Scrumter — gestión de proyectos Scrum con IA. React, TypeScript, Vite y Tailwind." /></a>
-</p>
-
-<p align="center"><a href="https://scrumter.io">Demo de Scrumter</a> · <a href="https://github.com/darman-prog/scrumter_landing_page">Repo de Scrumter</a></p>
-
-<p align="center">
-  <a href="https://nubi-six.vercel.app"><img src="./img/nubi.svg" width="440" alt="Nubi — PWA de higiene del sueño para adolescentes. React, TypeScript, Vite y PWA." /></a>
-</p>
-
-<p align="center"><a href="https://nubi-six.vercel.app">Demo de Nubi</a> · <a href="https://github.com/darman-prog/Nubi">Repo de Nubi</a></p>
-
-<p align="center">
-  <a href="https://systematic-iota.vercel.app"><img src="./img/systematic.svg" width="440" alt="Systematic — app de estudio con quiz, simulacros, flashcards y repaso espaciado. TypeScript, Vite, Tailwind y Firebase." /></a>
-</p>
-
-<p align="center"><a href="https://systematic-iota.vercel.app">Demo de Systematic</a> · <a href="https://github.com/darman-prog/Systematic">Repo de Systematic</a></p>
-
-<p align="center">
-  <a href="https://atlasmagicop.netlify.app/"><img src="./img/atlas-magico.svg" width="440" alt="Atlas Mágico — juego educativo de geografía y trivia por país. React, TypeScript, Vite y Netlify." /></a>
-</p>
-
-<p align="center"><a href="https://atlasmagicop.netlify.app/">Demo de Atlas Mágico</a> · <a href="https://github.com/darman-prog/atlas-magico">Repo de Atlas Mágico</a></p>
-
-<p align="center">
-  <a href="https://github.com/darman-prog/Teiba"><img src="./img/teiba.svg" width="440" alt="Teiba — proyecto full-stack con FastAPI y React." /></a>
-</p>
-
-<p align="center"><a href="https://github.com/darman-prog/Teiba">Repo de Teiba</a></p>
-
-<p align="center">
-  <a href="https://github.com/darman-prog?tab=repositories"><img src="./img/mas-proyectos.svg" width="440" alt="Más proyectos: EcoReceta y OpenCodeConfig." /></a>
-</p>
-
-<p align="center"><a href="https://github.com/darman-prog?tab=repositories">Ver todos los repositorios →</a></p>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://scrumter.io"><img src="./img/scrumter.svg" width="100%" alt="Scrumter — gestión de proyectos Scrum con IA. React, TypeScript, Vite y Tailwind." /></a>
+  <p><a href="https://scrumter.io">Demo de Scrumter</a> · <a href="https://github.com/darman-prog/scrumter_landing_page">Repo de Scrumter</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://nubi-six.vercel.app"><img src="./img/nubi.svg" width="100%" alt="Nubi — PWA de higiene del sueño para adolescentes. React, TypeScript, Vite y PWA." /></a>
+  <p><a href="https://nubi-six.vercel.app">Demo de Nubi</a> · <a href="https://github.com/darman-prog/Nubi">Repo de Nubi</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://systematic-iota.vercel.app"><img src="./img/systematic.svg" width="100%" alt="Systematic — app de estudio con quiz, simulacros, flashcards y repaso espaciado. TypeScript, Vite, Tailwind y Firebase." /></a>
+  <p><a href="https://systematic-iota.vercel.app">Demo de Systematic</a> · <a href="https://github.com/darman-prog/Systematic">Repo de Systematic</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://atlasmagicop.netlify.app/"><img src="./img/atlas-magico.svg" width="100%" alt="Atlas Mágico — juego educativo de geografía y trivia por país. React, TypeScript, Vite y Netlify." /></a>
+  <p><a href="https://atlasmagicop.netlify.app/">Demo de Atlas Mágico</a> · <a href="https://github.com/darman-prog/atlas-magico">Repo de Atlas Mágico</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/darman-prog/Teiba"><img src="./img/teiba.svg" width="100%" alt="Teiba — proyecto full-stack con FastAPI y React." /></a>
+  <p><a href="https://github.com/darman-prog/Teiba">Repo de Teiba</a></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/darman-prog?tab=repositories"><img src="./img/mas-proyectos.svg" width="100%" alt="Más proyectos: EcoReceta y OpenCodeConfig." /></a>
+  <p><a href="https://github.com/darman-prog?tab=repositories">Ver todos los repositorios →</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
